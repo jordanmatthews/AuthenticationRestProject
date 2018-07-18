@@ -1,0 +1,3 @@
+INSERT INTO user (id, email, firstname, lastname, password, username) VALUES (1,'test@test2.com', 'Jordan', 'Matthews', '$2a$04$I9Q2sDc4QGGg5WNTLmsz0.fvGv3OjoZyj81PrSFyGOqMphqfS2qKu', 'test@test2.com');
+INSERT INTO user (id, email, firstname, lastname, password, username) VALUES (2,'test@test3.com','Jordan2','Matthews2','$2a$04$PCIX2hYrve38M7eOcqAbCO9UqjYg7gfFNpKsinAxh99nms9e.8HwK', 'test@test3.com');
+INSERT INTO user (id, email, firstname, lastname, password, username) VALUES (3,'test@test.com','Jordan3','Matthews3','$2a$04$I9Q2sDc4QGGg5WNTLmsz0.fvGv3OjoZyj81PrSFyGOqMphqfS2qKu', 'test@test.com');
